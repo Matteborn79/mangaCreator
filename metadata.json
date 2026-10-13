@@ -1,0 +1,6 @@
+{
+  "name": "MangaMorph",
+  "description": "Transform photos and movies into authentic Japanese manga comic panels, tankobon pages, and motion comics with G-Pen ink, screentones, speedlines, and AI styling.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
